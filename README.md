@@ -1,0 +1,2 @@
+# HandlerHttpUrl
+handler异步原生请求下载图片HttpURLConnection
